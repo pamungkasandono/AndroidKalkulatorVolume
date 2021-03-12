@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="txt_panjang">Panjang</string>
+    <string name="txt_lebar">Lebar</string>
+    <string name="txt_tinggi">Tinggi</string>
+    <string name="txt_hitung">Hitung</string>
+    <string name="txt_hasil">Hasil</string>
+</resources>
